@@ -4,7 +4,7 @@
 #' date: "April 1, 2014"
 #' output: github_document
 #' ---
-#'
+#'HI!
 #' Here's some prose in a very special comment. Let's summarize the built-in
 #' dataset `VADeaths`.
 ## here is a regular code comment, that will remain as such
